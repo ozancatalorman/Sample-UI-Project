@@ -1,0 +1,13 @@
+# SampleUI
+
+This my sample UI project to develop and practice on my Python and PyQt5 skills as well
+
+PyQt5, sqlite3 and sys modules have been used in this project.
+
+     ......       ......
+              .
+              .
+             ...
+      ..             ..
+        ....     .... 
+            .....
